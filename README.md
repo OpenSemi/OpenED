@@ -18,6 +18,8 @@ Project IceStorm aims at reverse engineering and documenting the bitstream forma
 
 ##SymbiFlow
 https://symbiflow.github.io/
+https://github.com/SymbiFlow
+
 SymbiFlow will be a FOSS Verilog-to-Bitstream FPGA synthesis flow for Xilinx 7-Series, Lattice iCE40 and Lattice ECP5 FPGAs. It is under construction. This page describes briefly what we are up to.
 
 ##Archer-pnr
