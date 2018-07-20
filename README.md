@@ -25,3 +25,7 @@ SymbiFlow will be a FOSS Verilog-to-Bitstream FPGA synthesis flow for Xilinx 7-S
 ##Archer-pnr
 https://github.com/cseed/arachne-pnr
 
+##FreePDK
+https://vlsiarch.ecen.okstate.edu/flow/
+
+
