@@ -2,6 +2,18 @@
 
 Related Links
 
+##CHisel 
+https://chisel.eecs.berkeley.edu/
+
+##PyRTL
+http://ucsbarchlab.github.io/PyRTL/
+
+##MyHDL
+http://www.myhdl.org/
+
+##iVerilog
+Icarus Verilog - http://iverilog.icarus.com/
+
 ##QFlow - An Open-Source Digital Synthesis Flow
 http://opencircuitdesign.com/qflow/
 
